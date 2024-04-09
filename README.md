@@ -13,3 +13,7 @@ epistemic modal logic, and higher categories.
 
 * [Text-only version of the transcript](https://www.wujipu0.org/_/41/65/6199adc814bee7fa59bc5360e8c9d09476370df85f7e6413ca00ec1ef865.txt)
 * [JSONL version of the transcript](https://www.wujipu0.org/_/4c/eb/991640d7917380ee550e2a033a444eb547f0bf3b0db9d3a8e9f128a53c34.txt)
+
+---
+
+Licensed under https://creativecommons.org/licenses/by/4.0/
